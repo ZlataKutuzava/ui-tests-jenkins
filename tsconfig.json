@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["dom", "es2016"],
+    "baseUrl": "./",
+    "typeRoots": ["../node_modules/@types"],
+    "types": [
+      "node",
+      "cypress",
+      "@shelex/cypress-allure-plugin"
+    ],
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}

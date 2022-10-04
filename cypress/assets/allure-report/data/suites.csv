@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 04 15:19:09 MSK 2022","Tue Oct 04 15:19:09 MSK 2022","86","","EPAM Main Application","","","","Sholud have correct page heading - Home Page",""
+"passed","Tue Oct 04 15:19:10 MSK 2022","Tue Oct 04 15:19:15 MSK 2022","4733","","EPAM Main Application","","","","Sholud display warning message if entered phone is incorrect - Contact Us Page",""
+"passed","Tue Oct 04 15:19:09 MSK 2022","Tue Oct 04 15:19:10 MSK 2022","610","","EPAM Main Application","","","","Sholud contain class opened - Home Page, Location Selection Panel",""
+"passed","Tue Oct 04 15:19:15 MSK 2022","Tue Oct 04 15:19:18 MSK 2022","2722","","EPAM Main Application","","","","Should have 11 links - Our Work Page",""
+"passed","Tue Oct 04 15:19:18 MSK 2022","Tue Oct 04 15:19:18 MSK 2022","498","","EPAM Main Application","","","","Should have correct url - Our Work Page",""
